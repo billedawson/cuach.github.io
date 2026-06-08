@@ -2,4 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.DS_Store
+ghost_to_jekyll.py
+ghost-export.json
 vendor
